@@ -1,0 +1,3 @@
+[functions.create-management-user]
+verify_jwt = true
+entrypoint = "./functions/create-management-user/index.ts"
